@@ -50,7 +50,7 @@ I am a **Junior Web Developer** specialized in building modern web applications 
 # 🚀 Featured Projects
 
 ## 🛒 E-Commerce Website
-Full PHP & MySQL system with authentication, cart, and admin panel.
+Full PHP & MySQL system with authentication, view products, and admin panel.
 
 ## 🔐 Login System
 Secure login & register system using PHP sessions.
