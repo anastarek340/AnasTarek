@@ -76,13 +76,6 @@ Data management applications fully connected to MySQL and Microsoft Access datab
 
 ---
 
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnasTarek&show_icons=true&theme=radial&count_private=true" alt="Anas's GitHub Stats" />
-</p>
-
----
-
 # 📈 Current Focus & Goals
 
 - 🚀 Scaling backend architectures using advanced **PHP & Laravel** MVC patterns.
@@ -96,7 +89,7 @@ Data management applications fully connected to MySQL and Microsoft Access datab
 
 - 💼 **LinkedIn:** [Anas Tarek](https://www.linkedin.com/in/anas-tarek-925aa9367/)
 - 📧 **Email:** anastarek340@gmail.com  
-- 📍 **Location:** Qalyubia, Egypt  
+- 📍 **Location:** cairo, Egypt  
 
 ---
 
